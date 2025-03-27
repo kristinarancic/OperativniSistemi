@@ -1,2 +1,2 @@
 # OperativniSistemi
-Zadaci za pismeni deo ispita iz Operativnih sistema
+Reseni blanketi sa pismenog dela ispita iz Operativnih sistema
